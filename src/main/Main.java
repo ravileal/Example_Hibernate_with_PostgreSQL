@@ -6,12 +6,13 @@ import model.Boss;
 public class Main {
 
 	public static void main(String[] args) {
-		read();
-		create();
-		update();
-		delete();
+//		read();
+//		create();
+//		update();
+//		delete();
 	}
-
+	
+	// Exemplos de uso
 	private static void read() {
 		Boss e1 = new Boss();
 		e1 = HandlerObject.getInstance().read(Boss.class, "Yugi");
