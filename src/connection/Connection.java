@@ -1,4 +1,4 @@
-package idPrimaryKey;
+package connection;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

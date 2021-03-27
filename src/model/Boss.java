@@ -1,4 +1,4 @@
-package idPrimaryKey;
+package model;
 
 import javax.persistence.Entity;
 
